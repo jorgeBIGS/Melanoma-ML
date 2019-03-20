@@ -1,0 +1,146 @@
+@relation 'Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N27-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N26-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N25-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N24-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N23-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N22-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N21-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N20-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N19-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N18-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N17-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N16-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N15-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N14-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N13-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N12-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N11-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N10-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N9-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N8-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N7-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N6-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N5-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N4-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N3-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N2-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0_autoencoded-weka.filters.unsupervised.attribute.MLPAutoencoder-N1-L0.01-O1.0E-6-P7-E7-weights-file/home/jorge/workspace_java/melanoma2-S2_Spanish Melanoma-weka.filters.unsupervised.instance.RemoveWithValues-S1.0-C26-Lfirst-V-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer0_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer1_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer2_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer3_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer4_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer5_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer6_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer7_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer8_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer9_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer10_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer11_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer12_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer13_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer14_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer15_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer16_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer17_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer18_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer19_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer20_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer21_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer22_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer23_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer24_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer25_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer26_hidden-Rfirst-last-weka.filters.unsupervised.attribute.RenameAttribute-findhidden-replaceLayer27_hidden-Rfirst-last-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval -P 1 -E 1-Sweka.attributeSelection.BestFirst -D 1 -N 5'
+
+@attribute Layer27_hidden_unit_5output numeric
+@attribute Layer27_hidden_unit_6output numeric
+@attribute Layer25_Layer26_Layer27_hidden_unit_17output numeric
+@attribute Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_8output numeric
+@attribute Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_18output numeric
+@attribute Layer19_Layer20_Layer21_Layer22_Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_15output numeric
+@attribute Layer18_Layer19_Layer20_Layer21_Layer22_Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_1output numeric
+@attribute Layer16_Layer17_Layer18_Layer19_Layer20_Layer21_Layer22_Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_11output numeric
+@attribute Layer15_Layer16_Layer17_Layer18_Layer19_Layer20_Layer21_Layer22_Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_13output numeric
+@attribute Layer14_Layer15_Layer16_Layer17_Layer18_Layer19_Layer20_Layer21_Layer22_Layer23_Layer24_Layer25_Layer26_Layer27_hidden_unit_8output numeric
+@attribute AREA numeric
+@attribute TREC numeric
+
+@data
+0.659654,0.453932,0.737487,0.403226,0.459037,0.265621,0.812703,0.592748,0.179339,0.252229,0.305556,0
+0.709171,0.636933,0.735671,0.391827,0.465607,0.243585,0.81978,0.692808,0.16875,0.233973,0.603175,0
+0.3297,0.552709,0.487925,0.412327,0.430649,0.646407,0.79008,0.370303,0.549926,0.506842,0.013393,0
+0.408735,0.418406,0.507502,0.42187,0.674789,0.52187,0.280986,0.578775,0.613846,0.29881,0.045139,60
+0.358251,0.411391,0.502949,0.394094,0.639672,0.485607,0.277616,0.484419,0.625213,0.321171,0.138889,60
+0.438733,0.348722,0.472346,0.566372,0.389188,0.670795,0.378581,0.523574,0.684798,0.651407,0.013393,60
+0.401481,0.368716,0.457556,0.383244,0.36645,0.508128,0.233684,0.334721,0.706429,0.397863,0.013393,60
+0.314308,0.286417,0.31572,0.488346,0.572926,0.603626,0.234444,0.487226,0.502575,0.438131,0.013393,60
+0.305622,0.58637,0.535391,0.679774,0.655727,0.436244,0.373496,0.536132,0.684148,0.423438,0.027282,60
+0.352071,0.59512,0.45318,0.409436,0.484585,0.555046,0.333508,0.411472,0.679044,0.478442,0.193948,60
+0.470908,0.423971,0.336943,0.550646,0.35359,0.556187,0.285383,0.36086,0.737475,0.539054,0.035714,60
+0.309347,0.631866,0.413905,0.538073,0.40087,0.678019,0.367826,0.346341,0.515262,0.617411,0.079365,60
+0.401265,0.667539,0.490858,0.412876,0.557462,0.577244,0.322519,0.465943,0.685636,0.437634,0.027282,60
+0.447222,0.344646,0.304977,0.54261,0.402829,0.514989,0.296324,0.374076,0.523112,0.552837,0.107143,60
+0.354145,0.426421,0.595382,0.422483,0.649591,0.510505,0.306527,0.595854,0.36736,0.447334,0.045139,6
+0.41006,0.734652,0.325536,0.68023,0.515528,0.543965,0.760981,0.287561,0.467392,0.701979,0.027282,60
+0.384738,0.462095,0.58894,0.385751,0.488149,0.540185,0.293772,0.408598,0.668092,0.495951,0.007937,60
+0.416111,0.387871,0.454457,0.397848,0.45148,0.576765,0.235846,0.441918,0.733607,0.538223,0.003472,60
+0.334135,0.367001,0.636675,0.536506,0.474067,0.635921,0.796444,0.612648,0.38789,0.535132,0.107143,60
+0.284196,0.700559,0.344464,0.55619,0.660456,0.28562,0.323035,0.375561,0.458263,0.610837,0.789187,60
+0.587638,0.306211,0.520005,0.460523,0.341311,0.636175,0.294357,0.527611,0.679524,0.509308,0.066964,60
+0.572292,0.34494,0.601541,0.431176,0.343836,0.678431,0.356005,0.421164,0.715533,0.670424,0.007937,60
+0.712255,0.32512,0.701453,0.309381,0.669717,0.293115,0.419127,0.737539,0.296995,0.532445,1,0
+0.388857,0.427101,0.582818,0.479196,0.485423,0.583382,0.317236,0.525797,0.618796,0.515064,0.045139,60
+0.450784,0.512505,0.330412,0.454065,0.500434,0.630015,0.266938,0.534941,0.741878,0.488277,0,60
+0.297531,0.354716,0.42762,0.523002,0.441381,0.567822,0.31412,0.343144,0.409721,0.324885,0.055556,60
+0.354286,0.384685,0.549538,0.396826,0.523908,0.521796,0.30633,0.414176,0.445657,0.524638,0.045139,60
+0.416288,0.541049,0.636328,0.455984,0.509046,0.608906,0.764672,0.579215,0.462706,0.481148,0.007937,60
+0.413678,0.477083,0.302743,0.39198,0.524156,0.580234,0.262147,0.420105,0.586731,0.515253,0.013393,60
+0.370559,0.478884,0.561234,0.432606,0.471454,0.582772,0.317232,0.372814,0.483573,0.573916,0.003472,60
+0.291468,0.386718,0.266453,0.675657,0.350401,0.521543,0.214744,0.232146,0.806646,0.775817,0.12252,60
+0.347337,0.514185,0.505579,0.46277,0.541458,0.642789,0.797476,0.589848,0.453807,0.437642,0.035714,60
+0.599139,0.538828,0.417754,0.432097,0.404397,0.560317,0.273061,0.450994,0.595384,0.629383,0.28125,60
+0.340046,0.351199,0.356386,0.45841,0.554992,0.528124,0.232623,0.444642,0.456069,0.271943,0.027282,60
+0.370536,0.466074,0.61644,0.369957,0.47134,0.447735,0.293468,0.395338,0.59147,0.316824,0.079365,60
+0.373608,0.406356,0.452024,0.462427,0.484358,0.599277,0.29469,0.376331,0.69354,0.424539,0.035714,60
+0.649064,0.515078,0.644909,0.414874,0.603751,0.591679,0.341554,0.67239,0.440325,0.550683,0.066964,60
+0.29996,0.416941,0.51219,0.509679,0.342023,0.645634,0.333251,0.294103,0.499513,0.66752,0.019841,60
+0.317124,0.318671,0.454494,0.499183,0.438893,0.664809,0.784233,0.347741,0.328015,0.510944,0.045139,60
+0.534981,0.288226,0.503413,0.424836,0.577225,0.433263,0.804598,0.549155,0.468964,0.537211,0.257937,31
+0.382178,0.547101,0.322709,0.483295,0.509022,0.626044,0.287843,0.497112,0.539937,0.55377,0.12252,60
+0.621979,0.631905,0.702544,0.5447,0.556978,0.598668,0.789457,0.66212,0.46192,0.512989,0.019841,60
+0.561512,0.464824,0.441343,0.516216,0.439697,0.563105,0.352506,0.37517,0.745743,0.649826,0.003472,60
+0.461465,0.318085,0.324364,0.494483,0.424777,0.488657,0.265135,0.40153,0.71291,0.467006,0.003472,60
+0.643229,0.685886,0.688792,0.348881,0.483829,0.489759,0.731635,0.722498,0.37407,0.543086,0.330853,22
+0.335751,0.393127,0.441504,0.41951,0.567653,0.552985,0.289023,0.35059,0.490826,0.417163,0.023438,60
+0.351083,0.497974,0.564249,0.508383,0.3161,0.644851,0.32606,0.295118,0.708642,0.648549,0.027282,60
+0.313984,0.42452,0.539963,0.484599,0.436366,0.604751,0.326728,0.387975,0.453005,0.602321,0.045139,60
+0.342399,0.399677,0.548769,0.415519,0.499935,0.535301,0.314935,0.411375,0.441899,0.545688,0.092758,60
+0.478162,0.322398,0.304318,0.497296,0.444801,0.554883,0.271686,0.426518,0.765361,0.647254,0.045139,60
+0.630365,0.282825,0.382687,0.381106,0.691577,0.333806,0.243967,0.646856,0.642856,0.279669,0.007937,60
+0.375244,0.444674,0.499702,0.4618,0.628471,0.565287,0.292795,0.566214,0.614222,0.33395,0.079365,60
+0.696792,0.536372,0.421989,0.49654,0.435653,0.564235,0.291093,0.604916,0.738626,0.439385,0.045139,60
+0.55158,0.471757,0.349953,0.61453,0.461506,0.641336,0.307373,0.573918,0.741838,0.672907,0.066964,60
+0.714039,0.485242,0.534322,0.504011,0.597166,0.482968,0.796729,0.59168,0.538931,0.55297,0.035714,60
+0.520514,0.693753,0.467958,0.495687,0.447067,0.670965,0.810541,0.444276,0.385838,0.569911,0.035714,60
+0.305872,0.308977,0.448238,0.388033,0.584041,0.508053,0.264459,0.407438,0.649133,0.338466,0.027282,60
+0.40307,0.42681,0.452311,0.561329,0.335285,0.689698,0.398289,0.366591,0.548123,0.738189,0.066964,60
+0.731054,0.578536,0.736898,0.327397,0.335905,0.276576,0.234413,0.666368,0.167193,0.461471,0.441964,60
+0.425187,0.310212,0.325573,0.41683,0.502004,0.591905,0.223439,0.422125,0.755481,0.413963,0,60
+0.313798,0.410706,0.460783,0.44532,0.509839,0.581634,0.28255,0.363664,0.680144,0.405609,0.027282,60
+0.374818,0.340199,0.649622,0.45063,0.553855,0.544194,0.787303,0.643728,0.371368,0.465157,0.193948,60
+0.540039,0.304192,0.319191,0.480341,0.426967,0.477506,0.271512,0.424416,0.722155,0.460388,0.027282,60
+0.519006,0.501414,0.431854,0.592195,0.364706,0.635572,0.371351,0.352649,0.750781,0.709654,0.003472,60
+0.436022,0.399538,0.598914,0.391742,0.568236,0.480576,0.306738,0.562191,0.598897,0.443849,0.15625,60
+0.476559,0.306573,0.710104,0.489397,0.287862,0.352324,0.332924,0.362093,0.18766,0.425454,0.035714,60
+0.32555,0.40875,0.567531,0.434744,0.452563,0.562137,0.303042,0.424642,0.639717,0.52457,0.055556,60
+0.323036,0.525215,0.576162,0.507521,0.364499,0.650524,0.325023,0.374374,0.673596,0.607451,0.045139,60
+0.35118,0.522426,0.581005,0.486252,0.494866,0.611198,0.328892,0.451329,0.443717,0.573098,0.027282,60
+0.503559,0.699377,0.539344,0.68255,0.701914,0.406645,0.368984,0.650555,0.705287,0.383717,0.045139,2
+0.287034,0.407876,0.515959,0.362887,0.444581,0.587285,0.214452,0.604267,0.368251,0.659863,0.193948,60
+0.344016,0.35885,0.409631,0.489031,0.4019,0.622814,0.26963,0.428945,0.52099,0.641285,0.12252,60
+0.364948,0.484212,0.585869,0.424268,0.44679,0.573994,0.305029,0.398762,0.668166,0.533495,0.035714,60
+0.435687,0.490128,0.574784,0.447754,0.522362,0.586052,0.326478,0.478394,0.458248,0.542344,0.007937,60
+0.689171,0.460288,0.661331,0.456041,0.337405,0.70421,0.812842,0.493916,0.578235,0.679873,0.045139,60
+0.457289,0.522288,0.439502,0.577406,0.486029,0.604553,0.371081,0.407653,0.521213,0.684848,0.013393,60
+0.505155,0.355107,0.658356,0.389061,0.440272,0.555943,0.33117,0.487525,0.596176,0.407128,0.007937,60
+0.50542,0.385295,0.475237,0.375825,0.539652,0.536587,0.238863,0.565008,0.706811,0.474399,0.045139,60
+0.365044,0.396917,0.622015,0.465144,0.433887,0.644399,0.784572,0.497047,0.466137,0.540143,0.007937,60
+0.39311,0.411329,0.424944,0.455677,0.421766,0.628117,0.259685,0.40246,0.561037,0.625132,0.013393,60
+0.440525,0.35953,0.397923,0.551369,0.351514,0.619463,0.303368,0.501254,0.695823,0.512024,0.045139,60
+0.395014,0.515192,0.546162,0.520255,0.372877,0.658247,0.352122,0.36841,0.498823,0.656074,0.066964,60
+0.327192,0.61404,0.417818,0.501655,0.437814,0.647492,0.357711,0.356015,0.513549,0.585238,0.066964,60
+0.507619,0.684706,0.516413,0.371281,0.358125,0.647475,0.223555,0.56003,0.497336,0.710787,0.193948,60
+0.359294,0.427357,0.552537,0.494512,0.381603,0.621688,0.327028,0.424788,0.656003,0.583541,0.079365,60
+0.455145,0.297473,0.592593,0.470613,0.339765,0.680222,0.351367,0.423503,0.678042,0.679434,0.019841,60
+0.46747,0.460088,0.606203,0.374693,0.567349,0.51548,0.296671,0.525022,0.642771,0.43978,0.013393,60
+0.560868,0.601906,0.658779,0.430213,0.516796,0.583022,0.776475,0.586451,0.495637,0.483727,0.079365,60
+0.393905,0.321394,0.344982,0.439714,0.452041,0.546567,0.225442,0.392219,0.699498,0.272853,0,60
+0.501436,0.436495,0.509407,0.422067,0.653165,0.517415,0.764871,0.575097,0.28319,0.354462,0.174603,29
+0.369424,0.424785,0.530623,0.507566,0.404177,0.626463,0.342484,0.399914,0.467499,0.62678,0.066964,60
+0.519352,0.681291,0.53689,0.350817,0.455704,0.627434,0.211281,0.650127,0.464568,0.64495,0.107143,14
+0.322286,0.414193,0.355929,0.685997,0.691679,0.424194,0.183449,0.274823,0.548705,0.721213,0.019841,60
+0.36551,0.455199,0.456269,0.502536,0.541344,0.595418,0.327943,0.446554,0.451529,0.457256,0.193948,60
+0.456425,0.361419,0.486338,0.447256,0.5681,0.537936,0.253701,0.672752,0.636141,0.474515,0.15625,60
+0.449613,0.705834,0.397504,0.616212,0.559907,0.498041,0.817015,0.627437,0.489598,0.469004,0.257937,60
+0.401407,0.380943,0.45755,0.416155,0.535643,0.556117,0.282096,0.388945,0.692677,0.381718,0.007937,60
+0.730573,0.71573,0.609257,0.696366,0.600144,0.317243,0.226567,0.273232,0.788582,0.829007,0.107143,60
+0.349208,0.528795,0.58132,0.506559,0.480415,0.624829,0.332854,0.446345,0.445653,0.588868,0.019841,60
+0.393538,0.382753,0.45489,0.411252,0.533178,0.557349,0.28214,0.389095,0.691804,0.379891,0.019841,60
+0.370308,0.430814,0.574788,0.489177,0.468736,0.608093,0.316421,0.5167,0.624776,0.523457,0.007937,60
+0.421435,0.525534,0.432626,0.597109,0.354342,0.647458,0.366455,0.332572,0.73861,0.714447,0.027282,60
+0.329939,0.511995,0.575589,0.487671,0.383601,0.639916,0.31716,0.37688,0.676178,0.58825,0.007937,60
+0.365658,0.479118,0.584419,0.41999,0.451821,0.575053,0.301665,0.397659,0.670865,0.527828,0.007937,60
+0.556869,0.715903,0.543269,0.3945,0.562757,0.5141,0.808052,0.620498,0.481989,0.425107,0.441964,1
+0.337966,0.491412,0.606344,0.438167,0.406413,0.523338,0.304056,0.37053,0.603925,0.369457,0.019841,60
+0.391799,0.590837,0.356081,0.505245,0.563393,0.592207,0.305303,0.602353,0.477222,0.533967,0.305556,60
+0.481763,0.517936,0.660377,0.419474,0.679615,0.491311,0.309168,0.702898,0.553965,0.385035,0.107143,0
+0.262265,0.367989,0.454435,0.349549,0.302983,0.638439,0.210729,0.407287,0.459703,0.732156,0.107143,60
+0.308748,0.544143,0.580969,0.47823,0.613902,0.5267,0.79205,0.650051,0.324026,0.240908,0.079365,20
+0.407121,0.336192,0.465882,0.522796,0.475795,0.618643,0.373718,0.499243,0.477717,0.644184,0.019841,60
+0.355272,0.335739,0.406309,0.466398,0.431113,0.618853,0.255539,0.426778,0.53316,0.614249,0.003472,60
+0.632481,0.342534,0.333994,0.660848,0.696543,0.531171,0.212878,0.636766,0.708347,0.658681,0.092758,60
+0.337857,0.408872,0.490316,0.409828,0.622705,0.528112,0.272126,0.467666,0.639812,0.328672,0.027282,60
+0.323717,0.347157,0.608607,0.537273,0.3973,0.664749,0.794697,0.512567,0.435872,0.581859,0.045139,60
+0.67639,0.302102,0.415645,0.524991,0.477487,0.572559,0.304806,0.578375,0.75731,0.644531,0.027282,60
+0.733461,0.312908,0.733034,0.518175,0.281589,0.317287,0.817488,0.568784,0.19377,0.261488,0.045139,8
+0.542713,0.627339,0.484164,0.456973,0.530496,0.572513,0.291595,0.452344,0.720838,0.397305,0.107143,3
+0.483951,0.308613,0.480818,0.470253,0.48101,0.590102,0.353695,0.551111,0.679443,0.569837,0,60
+0.321776,0.397786,0.461157,0.419802,0.534059,0.563228,0.275481,0.368833,0.680526,0.382848,0.007937,60
+0.292958,0.475609,0.519533,0.318975,0.279009,0.507845,0.230719,0.393022,0.376562,0.585029,0.441964,60
+0.303055,0.428588,0.471184,0.333799,0.309274,0.651575,0.206061,0.378937,0.499025,0.729796,0.013393,60
+0.486515,0.327593,0.377273,0.483178,0.437977,0.633417,0.288474,0.541488,0.752773,0.626574,0.013393,60
+0.409616,0.4374,0.641867,0.48529,0.554437,0.475395,0.312338,0.602843,0.504217,0.297435,0.045139,0
+0.328025,0.432455,0.547719,0.53089,0.417445,0.622682,0.334716,0.380768,0.45685,0.633543,0.019841,60
+0.495832,0.582056,0.698506,0.400112,0.57177,0.407088,0.791265,0.710387,0.310348,0.263063,0.503472,0
+0.666867,0.719975,0.542562,0.358428,0.660109,0.510449,0.792588,0.566593,0.354997,0.413939,0.092758,1
+0.46998,0.304425,0.525562,0.483204,0.572229,0.455228,0.794081,0.578547,0.392391,0.349937,0.007937,0
+0.649795,0.70583,0.450729,0.400162,0.374113,0.61128,0.212756,0.610543,0.515418,0.678831,0.138889,6
+0.397744,0.545253,0.588029,0.340637,0.663775,0.366205,0.817995,0.676622,0.339368,0.368668,0.789187,2
